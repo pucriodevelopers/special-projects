@@ -19,7 +19,7 @@ Formatação para Repositórios.
 
 -----Projetos Novos-----
 
-User o nome "Projeto-Chatbot-LinguagemUtilizada"
+Use o nome "Projeto-Chatbot-LinguagemUtilizada"
 
 -----Pedindo ajuda no projeto-----
 
