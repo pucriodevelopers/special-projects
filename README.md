@@ -37,14 +37,6 @@ Ser apaixonado por tecnologia e se interessar em Open Source.
 
 Levante um issue em Special Projects e comenta na Issue <Feedback Community>
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Carlos Martins** -(https://github.com/carloshmartins)
@@ -56,4 +48,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Um dia terá licença PUC...
 
-## Acknowledgments
